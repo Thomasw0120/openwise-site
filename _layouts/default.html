@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title }}</title>
+    <style>
+      body {
+        max-width: 40rem;
+        margin: 2rem auto;
+        padding: 0 1rem;
+        font:
+          1rem/1.6 -apple-system,
+          system-ui,
+          sans-serif;
+        color: #1c1c1e;
+        background: #fff;
+      }
+      a {
+        color: #2f5d46;
+      }
+      @media (prefers-color-scheme: dark) {
+        body {
+          color: #eee;
+          background: #111;
+        }
+        a {
+          color: #8fd0a8;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    {{ content }}
+    <hr />
+    <p><a href="privacy">Privacy</a> · <a href="support">Help</a> · <a href="terms">Terms</a></p>
+  </body>
+</html>
