@@ -2,7 +2,7 @@
 
 Questions or a problem? Write to us. A person reads every message.
 
-Contact email: added shortly
+Contact email: twweissert@outlook.com
 
 ## My progress
 

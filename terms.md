@@ -4,4 +4,4 @@ Openwise: Chess Openings uses Apple's standard license for apps. There are no ex
 
 Read it here: [Apple's Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/).
 
-Contact email: added shortly
+Contact email: twweissert@outlook.com

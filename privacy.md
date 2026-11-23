@@ -26,7 +26,7 @@ All of this is stored **only on your phone**. It never leaves your device. We ca
 
 ## Check my games
 
-If you use Check my games, the app asks Lichess for your public games using the username you type. That request goes straight from your phone to Lichess and is covered by [Lichess's privacy policy](https://lichess.org/privacy). We never see it. Like any website, Lichess sees your phone's internet address when the app asks.
+If you save a username for Check my games, the app asks Lichess for your public games using the username you type. Unless you turn it off in Settings, the app does this by itself at most once a day when you open it, but only if you have saved a username. That request goes straight from your phone to Lichess and is covered by [Lichess's privacy policy](https://lichess.org/privacy). We never see it. Like any website, Lichess sees your phone's internet address when the app asks.
 
 The games are compared with your openings on your phone. The username and the results of the last check stay on your phone only, and you can clear the username at any time.
 
@@ -42,6 +42,8 @@ If you back up your iPhone to iCloud or a computer, the app's saved progress may
 
 The app can also make a backup file of your progress, but only when you tap Export backup, and it goes only where you choose to send or save it. The optional daily reminder is set up on your phone only; nothing is sent to a server.
 
+Typing a Lichess username is optional, and you can clear it at any time. If you have a question about your data, write to the contact email below.
+
 ## Children
 
 The app doesn't collect personal information from anyone, including children under 13.
@@ -52,4 +54,4 @@ If the app ever changes how it handles information, we'll update this page and c
 
 ## Contact
 
-Contact email: added shortly
+Contact email: twweissert@outlook.com
